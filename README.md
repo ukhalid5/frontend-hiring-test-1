@@ -338,11 +338,9 @@ Example
 ## Bonus
 
 - Use typescript
-- Deploy our app on Heroku or Netlify
+- Deploy your app on Heroku or Netlify
 
 ## Code Submit
 Please organize, design, test and document your code as if it were going into production and send us a pull request. We will review it and get back to you in order to talk about your code! 
-
-Contact us at hr@turingtechnologies.org if you need more details. 
 
 All the best and happy coding.
