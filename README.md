@@ -335,10 +335,16 @@ Example
 }
 ```
 
-## Submission
+## Bonus
 
-If you get confused at any stage of the test then please use your best assumptions and move forward with the test.
+- Use typescript
+- Deploy our app on Heroku or Netlify
 
-We'll try to review it in the next 48 hours and get back to you to talk about your code!
+## Code Submit
+Please organize, design, test and document your code as if it were going into production and send us a pull request. We will review it and get back to you in order to talk about your code! 
 
-Send your final submission to hr@turingtechnologies.org. Otherwise, Contact us if you need more details.
+Contact us at hr@turingtechnologies.org if you need more details. 
+
+__Feel free to apply! Drop us a line with your Linkedin/Github/Twitter/AnySocialProfileWhereYouAreActive at hr@turingtechnologies.org__
+
+All the best and happy coding.
