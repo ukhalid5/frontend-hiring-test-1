@@ -345,6 +345,4 @@ Please organize, design, test and document your code as if it were going into pr
 
 Contact us at hr@turingtechnologies.org if you need more details. 
 
-__Feel free to apply! Drop us a line with your Linkedin/Github/Twitter/AnySocialProfileWhereYouAreActive at hr@turingtechnologies.org__
-
 All the best and happy coding.
